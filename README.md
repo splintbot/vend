@@ -1,1 +1,2 @@
-# vend
+# vendly
+vendly homepage
