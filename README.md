@@ -3,14 +3,20 @@ You’ll need to have Node 10.16.0 or later version on your local development ma
 
 To create a new app, you have to:
 
-npx
-Use the following command
 
-git clone https://github.com/splintbot/vend.git
-cd vend
-type yarn to install dependencies in package.json file
+Clone the repository:
+
+"git clone https://github.com/splintbot/vend.git"
+
+Entre the app:
+"cd vend"
+
+
+type "yarn" to install dependencies in package.json file
 yarn start
 app should start on http://localhost:3000
+
+
 What's included
 axios - Promise based HTTP client for the browser and Node.js.
 antd - React UI library that contains a set of high quality components.
