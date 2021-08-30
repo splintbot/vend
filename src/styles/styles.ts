@@ -27,7 +27,7 @@ export const Styles = createGlobalStyle`
         padding:0;
         border: 0;
         outline: 0;
-        background: #fff;
+        background: #E0FAF8;
         overflow-x: hidden;
     }
 
@@ -40,7 +40,7 @@ export const Styles = createGlobalStyle`
         border-radius: 4px;
         border: 0;
         background: rgb(241, 242, 243);
-        transition: all 0.3s ease-in-out;  
+        transition: all 0s ease-in-out;  
         outline: none;
         width: 100%;  
         padding: 1rem 1.25rem;
