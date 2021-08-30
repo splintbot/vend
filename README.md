@@ -13,7 +13,9 @@ Entre the app:
 
 
 type "yarn" to install dependencies in package.json file
-yarn start
+
+
+type "yarn start" to start the app 
 app should start on http://localhost:3000
 
 
