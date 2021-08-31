@@ -2,11 +2,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2019 (64-Bit) -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 14300 14300"
+viewBox="0 0 2963.32 2963.32"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
-  <font id="FontID0" horiz-adv-x="713" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
+  <font id="FontID0" horiz-adv-x="712" font-variant="normal" style="fill-rule:nonzero" font-weight="900">
 	<font-face 
 		font-family="Axiforma Black">
 		<font-face-src>
@@ -14,22 +14,22 @@ viewBox="0 0 14300 14300"
 		</font-face-src>
 	</font-face>
    <missing-glyph><path d="M0 0z"/></missing-glyph>
-   <glyph unicode="1" horiz-adv-x="443" d="M-7.99535 552.004l244 186.991 134 0 0 -738.995 -180.01 0 0 494.994 -105.996 -76.9907 -91.9938 134z"/>
+   <glyph unicode="1" horiz-adv-x="442" d="M-8.00552 552.005l244.012 186.991 134.004 0 0 -738.995 -180.009 0 0 495.004 -105.995 -77.0035 -92.0112 134.004z"/>
   </font>
   <style type="text/css">
    <![CDATA[
     @font-face { font-family:"Axiforma Black";font-variant:normal;font-weight:900;src:url("#FontID0") format(svg)}
     .fil1 {fill:#006E72}
     .fil0 {fill:#006E72;fill-rule:nonzero}
-    .fnt0 {font-weight:900;font-size:739.18px;font-family:'Axiforma Black'}
+    .fnt0 {font-weight:900;font-size:478.42px;font-family:'Axiforma Black'}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2483001758592">
-   <path class="fil0" d="M6391.74 6056.47c270.9,0 516.17,109.81 693.7,287.35 177.54,177.53 287.35,422.8 287.35,693.7 0,270.9 -109.81,516.17 -287.35,693.7 -177.53,177.54 -422.8,287.35 -693.7,287.35 -270.9,0 -516.17,-109.81 -693.7,-287.35 -177.54,-177.53 -287.35,-422.8 -287.35,-693.7 0,-270.9 109.81,-516.17 287.35,-693.7 177.53,-177.54 422.8,-287.35 693.7,-287.35zm552.29 428.76c-141.33,-141.34 -336.61,-228.76 -552.29,-228.76 -215.69,0 -410.96,87.42 -552.29,228.76 -141.34,141.33 -228.76,336.6 -228.76,552.29 0,215.69 87.42,410.96 228.76,552.29 141.33,141.34 336.6,228.76 552.29,228.76 215.68,0 410.96,-87.42 552.29,-228.76 141.33,-141.33 228.76,-336.6 228.76,-552.29 0,-215.69 -87.43,-410.96 -228.76,-552.29z"/>
-   <text x="6257.94" y="7310.66"  class="fil1 fnt0">1</text>
+  <g id="_2483195434432">
+   <path class="fil0" d="M1560.53 799.89c175.34,0 334.1,71.08 449,185.99 114.92,114.91 186,273.66 186,449.01 0,175.34 -71.08,334.1 -186,449 -114.9,114.92 -273.66,186 -449,186 -175.35,0 -334.1,-71.08 -449.01,-186 -114.91,-114.9 -185.99,-273.66 -185.99,-449 0,-175.35 71.08,-334.1 185.99,-449.01 114.91,-114.91 273.66,-185.99 449.01,-185.99zm357.47 277.52c-91.47,-91.48 -217.87,-148.07 -357.47,-148.07 -139.61,0 -266,56.59 -357.48,148.07 -91.48,91.48 -148.07,217.87 -148.07,357.48 0,139.6 56.59,266 148.07,357.47 91.48,91.49 217.87,148.07 357.48,148.07 139.6,0 266,-56.58 357.47,-148.07 91.49,-91.47 148.07,-217.87 148.07,-357.47 0,-139.61 -56.58,-266 -148.07,-357.48z"/>
+   <text x="1473.92" y="1611.68"  class="fil1 fnt0">1</text>
   </g>
  </g>
 </svg>
